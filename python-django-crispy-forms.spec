@@ -11,7 +11,7 @@
 Summary:	Best way to have Django DRY forms
 Name:		python-%{pypi_name}
 Version:	1.6.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/d/%{pypi_name}/%{pypi_name}-%{version}.tar.gz

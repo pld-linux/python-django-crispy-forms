@@ -10,12 +10,12 @@
 %define		pypi_name	django-crispy-forms
 Summary:	Best way to have Django DRY forms
 Name:		python-%{pypi_name}
-Version:	1.6.0
-Release:	2
+Version:	1.6.1
+Release:	1
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/d/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
-# Source0-md5:	cf9537e0d2e5150644f45ea966b106dc
+# Source0-md5:	84f6ceb0ecfac6ad049ec4cf35b24ee9
 URL:		https://django-crispy-forms.readthedocs.io/
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
